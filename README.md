@@ -1,4 +1,4 @@
-# Twitter ETL Project
+# Airflow ETL Project
 
 This project is an ETL (Extract, Transform, Load) pipeline built with Apache Airflow. It extracts weather data from the Open-Meteo API, transforms it, and loads it into a PostgreSQL database.
 
