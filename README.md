@@ -26,7 +26,7 @@ This project is an ETL (Extract, Transform, Load) pipeline built with Apache Air
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd twitter_etl
+   cd airflow_etl
    ```
 
 2. **Set up Airflow Connections:**
